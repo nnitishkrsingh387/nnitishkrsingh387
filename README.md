@@ -43,17 +43,16 @@
 <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a></p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nnitishkrsingh387&show_icons=true&locale=en&layout=compact"
-    alt="nnitishkrsingh387"
-  />
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnitishkrsingh387&show_icons=true&locale=en&layout=compact" alt="nnitishkrsingh387" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnitishkrsingh387&show_icons=true&locale=en" alt="nnitishkrsingh387" /></p>
+
+<h1></h1>
+<p></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="" /></p>
 
 
 ## Hi there 👋
