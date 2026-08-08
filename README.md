@@ -45,9 +45,19 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnitishkrsingh387&show_icons=true&locale=en&layout=compact" alt="nnitishkrsingh387" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nnitishkrsingh387&layout=compact&show_icons=true&locale=en"
+    alt="Top Languages"
+  />
+</p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnitishkrsingh387&show_icons=true&locale=en" alt="nnitishkrsingh387" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nnitishkrsingh387&show_icons=true&locale=en"
+    alt="GitHub Stats"
+  />
+</p>
 
 
 
@@ -67,7 +77,10 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnitishkrsingh387&layout=compact&theme=radical" alt="Top Languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nnitishkrsingh387&theme=github_dark"
+    alt="Most Used Languages"
+  />
 </p>
 
 
