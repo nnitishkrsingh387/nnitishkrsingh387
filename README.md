@@ -45,19 +45,9 @@
 
 
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nnitishkrsingh387&layout=compact&show_icons=true&locale=en"
-    alt="Top Languages"
-  />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnitishkrsingh387&show_icons=true&locale=en&layout=compact" alt="nnitishkrsingh387" /></p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nnitishkrsingh387&show_icons=true&locale=en"
-    alt="GitHub Stats"
-  />
-</p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnitishkrsingh387&show_icons=true&locale=en" alt="nnitishkrsingh387" /></p>
 
 
 
