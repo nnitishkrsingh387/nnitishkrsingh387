@@ -49,20 +49,12 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnitishkrsingh387&show_icons=true&locale=en" alt="nnitishkrsingh387" /></p>
 
-<h1></h1>
-<p></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="" /></p>
-
-
-
-
 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nnitishkrsingh387&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnitishkrsingh387&theme=radical" alt="GitHub Profile Details" />
 </p>
 
 ## 🔥 GitHub Streak
@@ -71,11 +63,6 @@
   <img src="https://streak-stats.demolab.com?user=nnitishkrsingh387&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nnitishkrsingh387&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 ## 💻 Most Used Languages
 
