@@ -55,6 +55,36 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="" /></p>
 
 
+
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nnitishkrsingh387&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nnitishkrsingh387&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nnitishkrsingh387&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnitishkrsingh387&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+
 ## Hi there 👋
 
 <!--
