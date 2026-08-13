@@ -60,7 +60,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nnitishkrsingh387&theme=radical" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=nnitishkrsingh387&theme=radical"
+    alt="GitHub Streak" />
 </p>
 
 
